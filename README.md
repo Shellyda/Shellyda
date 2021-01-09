@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/Shellyda/Shellyda/Shellyda.svg)](http://hits.dwyl.com/Shellyda/Shellyda/Shellyda) 
-### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, nice to see you here! :woman_astronaut: :ringed_planet:  
-### <img src="images/banner.png">
+### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, nice to see you here! :woman_astronaut: :ringed_planet:  
+### <img src="banner.png" width="800px"  />
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shellyda&show_icons=true&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shellyda&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
