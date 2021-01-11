@@ -4,7 +4,7 @@ Nice to see you here, _let's talk!_ :woman_astronaut: :ringed_planet:
 
 ## 🗣️ About me
 
-My name is Shellyda Barbosa. I'm a intrant ABI engineering student at CTG/UFPE, that found in technology area the opportunity to transform my ideas into something that adds value to other people's lives, through development. 💚 
+My name is Shellyda Barbosa. I'm a intrant ABI engineering student at CTG/UFPE, that found in technology area the opportunity to transform ideas into something that adds value to other people's lives, through development. 💚 
 
     🌿 I try to practice empathy in my daily life, whenever possible, I want to 
        leave the environment in a good mood and pleasant for everyone.
