@@ -8,7 +8,7 @@ My name is Shellyda Barbosa. I'm a intrant ABI engineering student at CTG/UFPE, 
 
     🏁 I started my programming journey learning C language. 
 
-    ✍️ I'm current studying JavaScript, React, Syled Components, Git and GitHub.
+    ✍️ I'm current studying JavaScript, React, Styled Components, Git and GitHub.
 
     🍅 Trying to apply one method to boost productivity called Pomodoro.
 
