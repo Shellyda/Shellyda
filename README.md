@@ -18,11 +18,6 @@ My name is Shellyda Barbosa. I'm a intrant ABI engineering student at CTG/UFPE, 
     🌿 I try to practice empathy in my daily life. Whenever possible, i want to 
        leave the environment in a good mood and pleasant for everyone.
 
-## 🛰️ Status
-![github stats](https://github-readme-stats.vercel.app/api?username=Shellyda&show_icons=true&theme=radical&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shellyda&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :point_down: :female_detective: Where you can find me 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=for-the-badge&logo=LinkedIn&color=blue&link=https://www.linkedin.com/in/shellyda-barbosa-ab45b61b8/)](https://www.linkedin.com/in/shellyda-barbosa/a-ab45b61b8/)
