@@ -6,7 +6,14 @@ Nice to see you here, _let's talk!_ :woman_astronaut: :ringed_planet:
 I'm a Computer engineering student at CIn-UFPE and Software engineering professional working mainly in the areas of **web and mobile development**.
 Fueled by curiosity, always eager to learn and stay abreast of the latest technological trends. 💕
 <br />
+
 Apart from that, I also love to help and guide newbies colleagues, it makes me very happy to contribute to technical growth and a light environment for everyone around me. ✨
+
+So, I created the following repositories to help the beginner community in studying web development concepts from basic to advanced about JS, HTML and CSS with mini projects and activities:
+- [Exploring the **Basics** of **HTML** and **CSS**](https://github.com/Shellyda/studies-html-css-basic) :orange_heart: :blue_heart:
+- [**JavaScript** for beginners in programming](https://github.com/Shellyda/studies-javascript-basic) :yellow_heart: :yellow_heart: 
+- [Advanced techniques of **HTML5** and **CSS3**](https://github.com/Shellyda/studies-html-css-advanced) :orange_circle: :large_blue_circle:
+- [Advanced web development with **JavaScript**](https://github.com/Shellyda/studies-javascript-advanced) :star: 
 
 ### Talking about Personal Stuff:
 - 🛠   I’m currently working with JS, TS, React Native, Jest testing, iOS and Android development, etc.
