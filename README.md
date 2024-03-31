@@ -52,8 +52,3 @@ So, I created the following repositories to help the beginner community in study
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shellyda&hide_border=true" />
 </details>
-
-
----
- ### All made with ❤️ and </>
-![](https://media.giphy.com/media/C4NdKtRaQE9m8/giphy.gif) 
