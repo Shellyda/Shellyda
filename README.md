@@ -1,23 +1,20 @@
 ### <img src="banner.png" width="800px"  />
 ## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
-Nice to see you here, _let's talk!_ :woman_astronaut: :ringed_planet: 
 
-### 👩‍💻 About Me:
-I'm a Computer engineering student at CIn-UFPE and Software engineering professional working mainly in the areas of **web and mobile development**.
-Fueled by curiosity, always eager to learn and stay abreast of the latest technological trends. 💕
-<br />
-
+I'm a Computer engineering student at CIn-UFPE and Software engineering professional working mainly in the areas of **web and mobile development**. 
 Apart from that, I also love to help and guide newbies colleagues, it makes me very happy to contribute to technical growth and a light environment for everyone around me. ✨
 
 So, I created the following repositories to help the beginner community in studying web development concepts from basic to advanced about JS, HTML and CSS with mini projects and activities:
-- [Exploring the **Basics** of **HTML** and **CSS**](https://github.com/Shellyda/studies-html-css-basic) :orange_heart: :blue_heart:
-- [**JavaScript** for beginners in programming](https://github.com/Shellyda/studies-javascript-basic) :yellow_heart: :yellow_heart: 
-- [Advanced techniques of **HTML5** and **CSS3**](https://github.com/Shellyda/studies-html-css-advanced) :orange_circle: :large_blue_circle:
-- [Advanced web development with **JavaScript**](https://github.com/Shellyda/studies-javascript-advanced) :star: 
+
+- [:link:](https://github.com/Shellyda/studies-html-css-basic) Exploring the **Basics** of **HTML** and **CSS** 
+Exploring the **Basics** of **HTML** and **CSS** :orange_heart: :blue_heart: 
+- [:link:](https://github.com/Shellyda/studies-javascript-basic) **JavaScript** for beginners in programming :yellow_heart: :yellow_heart:
+- [:link:](https://github.com/Shellyda/studies-html-css-advance) Advanced techniques of **HTML5** and **CSS3** :orange_circle: :large_blue_circle: 
+- [:link:](https://github.com/Shellyda/studies-javascript-advanced) Advanced web development with **JavaScript** :star:
 
 ### Talking about Personal Stuff:
-- 🛠   I’m currently working with JS, TS, React Native, Jest testing, iOS and Android development, etc.
-- 🚀   I’m currently exploring C++, AWS, Redux, competitive programming issues, etc.
+- 🛠   I’m currently working with JS, TS, React Native, NextJS, NodeJS, Jest testing, iOS and Android development, etc.
+- 🚀   I’m currently exploring C++, AWS, Redux-Saga, competitive programming issues, etc.
 - 💬   Fun fact: I adoted a black cat at halloween season and named it "Hallowena" 🎃.
 - 📫   Reach me out: sfsb2@cin.ufpe.br.
 
@@ -25,6 +22,8 @@ So, I created the following repositories to help the beginner community in study
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest"/></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
