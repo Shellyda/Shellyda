@@ -6,8 +6,7 @@ Apart from that, I also love to help and guide newbies colleagues, it makes me v
 
 So, I created the following repositories to help the beginner community in studying web development concepts from basic to advanced about JS, HTML and CSS with mini projects and activities:
 
-- [:link:](https://github.com/Shellyda/studies-html-css-basic) Exploring the **Basics** of **HTML** and **CSS** 
-Exploring the **Basics** of **HTML** and **CSS** :orange_heart: :blue_heart: 
+- [:link:](https://github.com/Shellyda/studies-html-css-basic) Exploring the **Basics** of **HTML** and **CSS** :orange_heart: :blue_heart: 
 - [:link:](https://github.com/Shellyda/studies-javascript-basic) **JavaScript** for beginners in programming :yellow_heart: :yellow_heart:
 - [:link:](https://github.com/Shellyda/studies-html-css-advance) Advanced techniques of **HTML5** and **CSS3** :orange_circle: :large_blue_circle: 
 - [:link:](https://github.com/Shellyda/studies-javascript-advanced) Advanced web development with **JavaScript** :star:
