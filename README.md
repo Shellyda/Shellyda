@@ -1,4 +1,4 @@
-### <img src="banner.png" width="800px"  />
+### <img src="banner.png" width="600px"  />
 ## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
 
 I'm a Computer engineering student at CIn-UFPE and Software engineering professional working mainly in the areas of **web and mobile development**. 
