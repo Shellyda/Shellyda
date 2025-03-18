@@ -1,45 +1,52 @@
-### <img src="banner.png" width="600px"  />
-## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
+### <img src="banner.png" width="600px" />
 
-I'm a Computer engineering student at CIn-UFPE and Software engineering professional working mainly in the areas of **web and mobile development**. 
-Apart from that, I also love to help and guide newbies colleagues, it makes me very happy to contribute to technical growth and a light environment for everyone around me. ✨
+## Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 
-So, I created the following repositories to help the beginner community in studying web development concepts from basic to advanced about JS, HTML and CSS with mini projects and activities:
+I'm a **Computer Engineering student at CIn-UFPE** and a **Software Engineer** specializing in **web and mobile development**.  
+Beyond coding, I have a strong passion for mentoring and guiding newcomers in tech. Nothing makes me happier than fostering a collaborative, growth-oriented environment! ✨  
+### 🚀 What I Do
+- **Frontend & Mobile Development**: JavaScript, TypeScript, React Native, Next.js, Angular, and more.  
+- **Backend Development**:  NodeJS, NestJS, Firebase, Axios, Swagger.  
+- **Testing & CI/CD**: Jest, unit testing, Git, Husky, Prettier, ESLint and best practices.  
+- **Learning**: C++, Java, AWS, and competitive programming.  
 
-- [:link:](https://github.com/Shellyda/studies-html-css-basic) Exploring the **Basics** of **HTML** and **CSS** :orange_heart: :blue_heart: 
-- [:link:](https://github.com/Shellyda/studies-javascript-basic) **JavaScript** for beginners in programming :yellow_heart: :yellow_heart:
-- [:link:](https://github.com/Shellyda/studies-html-css-advanced) Advanced techniques of **HTML5** and **CSS3** :orange_circle: :large_blue_circle: 
-- [:link:](https://github.com/Shellyda/studies-javascript-advanced) Advanced web development with **JavaScript** :star:
+### ⚙️ Technologies & Tools  
+<p align="left">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="Android" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/xcode/xcode.png" alt="Xcode" />
+</p>  
 
-### Talking about Personal Stuff:
-- 🛠   I’m currently working with JS, TS, React Native, NextJS, NodeJS, Jest testing, iOS and Android development, etc.
-- 🚀   I’m currently exploring C++, AWS, Redux-Saga, competitive programming issues, etc.
-- 💬   Fun fact: I adoted a black cat at halloween season and named it "Hallowena" 🎃.
-- 📫   Reach me out: sfsb2@cin.ufpe.br.
+### 📚 Open-Source Contributions
+I believe in knowledge-sharing, so I created repositories to help beginners explore **web development** concepts through mini projects and hands-on activities:  
 
-### Languages and Tools:
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest"/></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+- 🟠 [**Basics of HTML & CSS**](https://github.com/Shellyda/studies-html-css-basic)  
+- 🟡 [**JavaScript for Beginners**](https://github.com/Shellyda/studies-javascript-basic)  
+- 🔵 [**Advanced HTML5 & CSS3**](https://github.com/Shellyda/studies-html-css-advanced)  
+- ⭐ [**Advanced JavaScript Techniques**](https://github.com/Shellyda/studies-javascript-advanced)  
 
-### Dev Stuffs:
+### 📊 GitHub Stats  
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-
+  <summary><b>⚡ My GitHub Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shellyda&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shellyda&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shellyda&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shellyda&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
+</details>  
+
+---
+
+### 📫 Get in Touch
+Feel free to reach out via email: **shellydabarbosa@gmail.com**  
+
+---
