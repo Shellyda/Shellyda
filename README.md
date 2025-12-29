@@ -33,16 +33,7 @@ I believe in knowledge-sharing, so I created repositories to help beginners expl
 - 🟠 [**Basics of HTML & CSS**](https://github.com/Shellyda/studies-html-css-basic)  
 - 🟡 [**JavaScript for Beginners**](https://github.com/Shellyda/studies-javascript-basic)  
 - 🔵 [**Advanced HTML5 & CSS3**](https://github.com/Shellyda/studies-html-css-advanced)  
-- ⭐ [**Advanced JavaScript Techniques**](https://github.com/Shellyda/studies-javascript-advanced)  
-
-### 📊 GitHub Stats  
-
-<details>
-  <summary><b>⚡ My GitHub Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shellyda&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shellyda&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
-</details>  
+- ⭐ [**Advanced JavaScript Techniques**](https://github.com/Shellyda/studies-javascript-advanced)
 
 ---
 
